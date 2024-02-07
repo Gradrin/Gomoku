@@ -1,0 +1,301 @@
+﻿  Button.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Button.cpp(15,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Button.cpp(15,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Button.cpp(16,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Button.cpp(16,35): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  EscapePanel.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\EscapePanel.cpp(15,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\EscapePanel.cpp(15,38): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Game.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.h(4,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.h(6,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(6,17): warning C4091: "extern ": zignorowano na lewo od "type" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(7,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+C:\opencv\build\include\opencv2\core.hpp(1603,19): warning C4002: zbyt wiele argumentów wywołania makra podobnego do funkcji „log”
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2143: błąd składniowy: brakuje „;” przed „<<”
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2182: „cout“: to użycie elementu „void“ jest nieprawidłowe
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2371: "std::cout": zmiana definicji; różne typy podstawowe
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : zobacz deklarację „std::cout”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(256,29): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(259,25): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(274,21): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(308,25): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(327,29): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(338,45): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(493,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Ctraits<_Ty>” klasy klasa szablon
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(580,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(580,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(613,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(613,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(713,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(712,24): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(751,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(751,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(853,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(853,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(886,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(886,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2988: nierozpoznana deklaracja/definicja szablonu
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2059: błąd składniowy: „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2065: "_Ty": niezadeklarowany identyfikator
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2923: „std::complex”: „_Ty” nie jest prawidłowym argumentem typu szablon dla parametru „_Ty”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): message : zobacz deklarację „_Ty”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,56): error C2143: błąd składniowy: brakuje „;” przed „{”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,56): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): warning C4002: zbyt wiele argumentów wywołania makra podobnego do funkcji „log”
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+C:\opencv\build\include\opencv2\flann\logger.h(106,5): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.h(24,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(46,13): error C2088: "<<": niedozwolone dla class
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(52,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(52,43): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(53,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(53,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(54,58): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(54,51): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(55,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.cpp(55,43): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  InternetConnection.cpp
+  Introduction.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.h(4,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.cpp(15,55): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.cpp(15,48): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.cpp(15,41): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.cpp(15,34): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  main.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Introduction.h(4,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.h(6,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(6,17): warning C4091: "extern ": zignorowano na lewo od "type" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(7,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+C:\opencv\build\include\opencv2\core.hpp(1603,19): warning C4002: zbyt wiele argumentów wywołania makra podobnego do funkcji „log”
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2143: błąd składniowy: brakuje „;” przed „<<”
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2182: „cout“: to użycie elementu „void“ jest nieprawidłowe
+C:\opencv\build\include\opencv2\core.hpp(1603,19): error C2371: "std::cout": zmiana definicji; różne typy podstawowe
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : zobacz deklarację „std::cout”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(256,29): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(259,25): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(274,21): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(308,25): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(327,29): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(338,45): error C2039: „std”: nie jest składową elementu „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(62,1): message : zobacz deklarację „std”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(493,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Ctraits<_Ty>” klasy klasa szablon
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(459,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(602,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(580,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(580,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(613,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(613,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(736,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(713,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(712,24): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(751,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(751,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(875,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(853,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(853,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(886,1): warning C4554: „<<”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(886,20): error C2088: "<<": niedozwolone dla class
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2988: nierozpoznana deklaracja/definicja szablonu
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2143: błąd składniowy: brakuje „;” przed „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2059: błąd składniowy: „<<”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2065: "_Ty": niezadeklarowany identyfikator
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): error C2923: „std::complex”: „_Ty” nie jest prawidłowym argumentem typu szablon dla parametru „_Ty”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,25): message : zobacz deklarację „_Ty”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,56): error C2143: błąd składniowy: brakuje „;” przed „{”
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\complex(1925,56): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): warning C4002: zbyt wiele argumentów wywołania makra podobnego do funkcji „log”
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): error C2143: błąd składniowy: brakuje „;” przed „<<”
+C:\opencv\build\include\opencv2\flann\logger.h(105,16): error C2838: „cout”: niedozwolona kwalifikowana nazwa w deklaracji składowej
+C:\opencv\build\include\opencv2\flann\logger.h(106,5): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Game.h(24,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+  Multiplayer.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(64,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(64,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(65,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(65,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(66,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Multiplayer.cpp(66,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Start.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.h(6,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(31,63): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(31,47): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(32,69): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(32,53): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(33,75): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(33,53): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(34,69): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(34,47): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(37,66): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(37,49): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(38,72): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(38,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(39,78): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(39,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(40,72): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(40,49): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(188,32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Start.cpp(189,36): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  StatsWindow.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.h(6,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(37,69): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(37,62): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(37,55): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(37,48): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(38,63): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(38,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(38,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.cpp(38,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  TypeGame.cpp
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\StatsWindow.h(6,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(6,17): warning C4091: "extern ": zignorowano na lewo od "type" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.h(7,20): warning C4091: "extern ": zignorowano na lewo od "buttons" podczas gdy brak deklaracji zmiennej
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(18,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(18,43): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(19,58): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(19,51): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(20,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(20,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(21,58): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(21,51): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(22,49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\TypeGame.cpp(22,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+E:\Program Files (x86)\Microsoft Visual Studio\PROJEKTY\Tic_Tac_Toe\Tic_Tac_Toe\Button.cpp(50): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej
